@@ -6,3 +6,9 @@ if a == b:
 
 else:
     print("Nops")
+
+x ="My name is Amit Sing"
+y = x[::-1]
+print(y)
+
+
