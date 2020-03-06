@@ -6,4 +6,3 @@ if a == b:
 
 else:
     print("Nops")
-    
