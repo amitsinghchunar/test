@@ -7,9 +7,12 @@ if a == b:
 else:
     print("Nops")
 
-x ="My name is Amit Sing"
+x ="My name is Amit Singh"
 y = x[::-1]
 print(y)
 
 z = "Hello"
+s = "Bye"
+
+
 
